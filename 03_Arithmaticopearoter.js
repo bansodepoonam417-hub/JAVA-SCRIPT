@@ -1,5 +1,3 @@
-const pi=3.14;
-console.log(pi);
 let a=10;
 let b=20;
 console.log(a+b);
