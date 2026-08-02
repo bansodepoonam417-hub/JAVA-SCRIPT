@@ -1,3 +1,3 @@
-Returns last occurrence. 
+ 
 let str = "banana";
- console.log(str.lastIndexOf("a")); 
+ console.log(str.lastIndexOf("a"))
